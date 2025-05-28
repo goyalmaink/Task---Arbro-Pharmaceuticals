@@ -6,18 +6,26 @@ A responsive React.js application for managing laboratory samples in a pharmaceu
 **Project Overview :**
 
 This application or project simulates a Sample Management Dashboard for a Laboratory Information Management System(YLIMS) where doctors or lab technicians can:
+
  ->View and Manage patient sample records 
+ 
  ->Add new patient sample with proper descriptions
+ 
  ->Update the sample status easily 
+ 
  ->Edit existing sample information
+ 
  ->Search ,filter and sort by various criteria 
 
+_____________________________________________________________________
+ 
  **#Demo**
+ 
   **->YouTube Link** - https://youtu.be/G7TD6Nd43vE
 
+_____________________________________________________________________
 
-
-**Core Technologies Used:**
+**#Core Technologies Used:**
 
  ->**React** - Frontend framework
  
@@ -26,6 +34,7 @@ This application or project simulates a Sample Management Dashboard for a Labora
  ->**Tailwindcss** - Styling and Responsive design ( I used  proper documentation of the tailwind for this project)
  
  ->**Mockaroo** - Mockaroo is a website which I used to generate the data 
+ ________________________________________________________________________
  
  
 
@@ -86,22 +95,27 @@ ylims-dashboard/
 ├── vite.config.js
 └── eslint.config.js
 ```
+
+________________________________________________________________________________________
+
 ## ✨ Features Implemented
 
 ### Core Features
-- ✅ **Sample Table Display** - Shows all sample records with required columns
-- ✅ **Search Functionality** - Search samples by name (real-time)
-- ✅ **Status Filtering** - Filter samples by status (All, Pending, Processing, Completed)
-- ✅ **Sorting** - Sort by sample name or collection date
-- ✅ **Pagination** - Client-side pagination with configurable page size
-- ✅ **Add Sample Form** - Modal form for adding new samples
-- ✅ **Edit Sample Form** - Modal form for editing existing samples
-- ✅ **Inline Status Update** - Direct status updates with dropdown
+-  **Sample Table Display** - Shows all sample records with required columns
+-  **Search Functionality** - Search samples by name (real-time)
+-  **Status Filtering** - Filter samples by status (All, Pending, Processing, Completed)
+-  **Sorting** - Sort by sample name or collection date
+-  **Pagination** - Client-side pagination with configurable page size
+-  **Add Sample Form** - Modal form for adding new samples
+-  **Edit Sample Form** - Modal form for editing existing samples
+-  **Inline Status Update** - Direct status updates with dropdown
 
 ### Bonus Features
-- ✅ **Dark/Light Mode Toggle** - Theme switching capability
-- ✅ **Optimistic UI Updates** - Instant feedback for user actions
-- ✅ **Reusable Components** - Modular component architecture
+-  **Dark/Light Mode Toggle** - Theme switching capability
+-  **Optimistic UI Updates** - Instant feedback for user actions
+-  **Reusable Components** - Modular component architecture
+
+__________________________________________________________________________________________  
 
 **#Screenshots**
   
@@ -123,7 +137,7 @@ ylims-dashboard/
 
 
 
-
+__________________________________________________________________________________________
 
 
 
