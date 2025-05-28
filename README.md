@@ -12,6 +12,9 @@ This application or project simulates a Sample Management Dashboard for a Labora
  ->Edit existing sample information
  ->Search ,filter and sort by various criteria 
 
+ **#Demo**
+  **->YouTube Link** - https://youtu.be/G7TD6Nd43vE
+
 
 
 **Core Technologies Used:**
